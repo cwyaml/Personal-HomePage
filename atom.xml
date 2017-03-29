@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cwyaml&#39;s Notes</title>
+  <subtitle>web &amp; something</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.cwyaml.top/"/>
+  <updated>2017-03-29T07:03:43.475Z</updated>
+  <id>http://www.cwyaml.top/</id>
+  
+  <author>
+    <name>cwyaml</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript - XPath学习笔记</title>
+    <link href="http://www.cwyaml.top/2017/03/28/xPath/"/>
+    <id>http://www.cwyaml.top/2017/03/28/xPath/</id>
+    <published>2017-03-28T13:29:31.000Z</published>
+    <updated>2017-03-29T07:03:43.475Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/jsxpath.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;XPath 是一种节点查找手段。它比使用 标准DOM 去查找 XML 节点更加方便、更加简单。但是 XPath 是 DOM3 中才支持的标准，并且 IE 有自己的实现方式。（IE总是自己造马车）&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/tags/JavaScript/"/>
+    
+      <category term="XPath" scheme="http://www.cwyaml.top/tags/XPath/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript-XML学习笔记</title>
+    <link href="http://www.cwyaml.top/2017/03/27/xml/"/>
+    <id>http://www.cwyaml.top/2017/03/27/xml/</id>
+    <published>2017-03-27T06:48:13.000Z</published>
+    <updated>2017-03-29T07:04:44.362Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/js-xml.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;XML 是指可扩展标记语言。 被设计用来 &lt;strong&gt;传输&lt;/strong&gt; 和 &lt;strong&gt;存储数据&lt;/strong&gt;。（可以理解为微型的数据库）很重要也非常好学。&lt;br&gt;曾几何时，XML一度成为存储和传输结构化数据的标准。DOM 出现以后，所有浏览器都内置了对 XML 的原生支持（XML DOM），同时也提供了一系列相关的技术支持。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/tags/JavaScript/"/>
+    
+      <category term="XML" scheme="http://www.cwyaml.top/tags/XML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO+GitHub,搭建博客 - 域名绑定</title>
+    <link href="http://www.cwyaml.top/2017/03/09/wwwyuming/"/>
+    <id>http://www.cwyaml.top/2017/03/09/wwwyuming/</id>
+    <published>2017-03-09T06:50:21.000Z</published>
+    <updated>2017-03-21T10:37:03.667Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/%E5%9F%9F%E5%90%8D.jpg&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;前面也讲过了，我们把博客同时托管到 Github 和 Coding。我们就有两个域名可以访问站点，但是又出现几个问题：使用的不是自己的域名；两个地址的统计信息（文章阅读量，访问量等）相互独立，不能合并；github pages国内访问速度慢（300ms左右，毕竟国外的服务器）。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="Next+Hexo" scheme="http://www.cwyaml.top/tags/Next-Hexo/"/>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="域名" scheme="http://www.cwyaml.top/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO 博客同时部署到 GitHub &amp; Coding</title>
+    <link href="http://www.cwyaml.top/2017/03/08/github&amp;coding/"/>
+    <id>http://www.cwyaml.top/2017/03/08/github&amp;coding/</id>
+    <published>2017-03-08T05:08:44.000Z</published>
+    <updated>2017-03-21T10:28:19.456Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/github&amp;amp;coding.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;很多人都把 hexo 托管到 Github 上，因为 Github 大家都用的比较久了。但是，你的博客主要访问者肯定还是国内的用户，国内的用户访问 coding 比 github 是要快不少的。还可以&lt;u&gt;利用域名解析实现国内的走 coding，海外的走github，&lt;/u&gt;分流网站的访问。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="Next+Hexo" scheme="http://www.cwyaml.top/tags/Next-Hexo/"/>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO+GitHub,搭建博客 - 备份</title>
+    <link href="http://www.cwyaml.top/2017/03/07/backup/"/>
+    <id>http://www.cwyaml.top/2017/03/07/backup/</id>
+    <published>2017-03-07T08:26:30.000Z</published>
+    <updated>2017-03-21T10:30:44.410Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/backup.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;用Hexo写博客是一件比较享受的事情，无奈如果换电脑或者系统崩了的话，你就会一脸懵B了，备份博客就显得尤为重要。先说说我的感受，博客刚搭建好的时候就想过这个问题，那时候对 &lt;code&gt;git&lt;/code&gt; 似懂非懂吧。在网上找了很多教程方法，大概就是说要创建一个分支来存放 blog 文件，但是翻腾来翻腾去还是没有搞定。
+    
+    </summary>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="Next+Hexo" scheme="http://www.cwyaml.top/tags/Next-Hexo/"/>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="backup" scheme="http://www.cwyaml.top/tags/backup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>教你制作音乐外链</title>
+    <link href="http://www.cwyaml.top/2017/03/02/wangyimusic/"/>
+    <id>http://www.cwyaml.top/2017/03/02/wangyimusic/</id>
+    <published>2017-03-02T13:12:04.000Z</published>
+    <updated>2017-03-29T03:22:03.337Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/couldmusic.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;本篇文章讲怎样制作音乐外链，我主要用来为自己的博客添加背景音乐。（其实主要用来装X）&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Music" scheme="http://www.cwyaml.top/categories/Music/"/>
+    
+    
+      <category term="Music" scheme="http://www.cwyaml.top/tags/Music/"/>
+    
+      <category term="网易云音乐" scheme="http://www.cwyaml.top/tags/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最简单的翻墙方法</title>
+    <link href="http://www.cwyaml.top/2017/03/01/host/"/>
+    <id>http://www.cwyaml.top/2017/03/01/host/</id>
+    <published>2017-03-01T04:01:05.000Z</published>
+    <updated>2017-03-28T12:44:05.726Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/host.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;分享一个可用的翻墙方法，解决 Google、Facebook、及 Twitter 等被墙问题。&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;※※※ &lt;span id=&quot;yu-1&quot;&gt;&lt;strong&gt;本页面长期更新可用 hosts 文件。&lt;/strong&gt;&lt;/span&gt; ※※※&lt;/p&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="外面的世界" scheme="http://www.cwyaml.top/categories/%E5%A4%96%E9%9D%A2%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    
+    
+      <category term="翻墙" scheme="http://www.cwyaml.top/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="hosts" scheme="http://www.cwyaml.top/tags/hosts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Naruto-Pictures</title>
+    <link href="http://www.cwyaml.top/2017/02/28/top-pitcure/"/>
+    <id>http://www.cwyaml.top/2017/02/28/top-pitcure/</id>
+    <published>2017-02-28T06:36:04.000Z</published>
+    <updated>2017-03-29T10:02:40.116Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;group-picture&quot;&gt;&lt;div class=&quot;group-picture-container&quot;&gt;&lt;div class=&quot;group-picture-row&quot;&gt;&lt;div class=&quot;group-picture-column&quot; style=&quot;widt
+    
+    </summary>
+    
+      <category term="图片" scheme="http://www.cwyaml.top/categories/%E5%9B%BE%E7%89%87/"/>
+    
+    
+      <category term="picture" scheme="http://www.cwyaml.top/tags/picture/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 使用中常见的问题及解决方法</title>
+    <link href="http://www.cwyaml.top/2017/02/14/markdown/"/>
+    <id>http://www.cwyaml.top/2017/02/14/markdown/</id>
+    <published>2017-02-14T13:05:06.000Z</published>
+    <updated>2017-03-21T10:54:43.255Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/markdown.jpg&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;就像 Markdown 官方文档里描述的一样：&lt;strong&gt;&lt;em&gt;可读性，无论如何，都是最重要的。&lt;/em&gt;&lt;/strong&gt;Markdown 的目标是实现 &amp;nbsp; &lt;span id=&quot;yu-1&quot;&gt;『易读易写』&lt;/span&gt; 。&amp;nbsp;Markdown 从发布到现在备受好评，经过这一段的使用，整体感觉挺顺手，不过还是存在很多问题，所以总结一下喽。。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://www.cwyaml.top/categories/Markdown/"/>
+    
+    
+      <category term="Markdown" scheme="http://www.cwyaml.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML5 之 canvas的使用</title>
+    <link href="http://www.cwyaml.top/2017/02/13/html5-canvas/"/>
+    <id>http://www.cwyaml.top/2017/02/13/html5-canvas/</id>
+    <published>2017-02-13T05:56:24.000Z</published>
+    <updated>2017-03-21T10:59:07.060Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/canvas.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span id=&quot;inline-blue&quot;&gt;canvas&lt;/span&gt;是 html5 出现的新标签，用来替代Flash。像所有的 DOM 一样它具有自己本身的属性、方法和事件。他拥有强大的绘图功能。。下面是我在学习时做的一些总结。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Html5" scheme="http://www.cwyaml.top/categories/Html5/"/>
+    
+    
+      <category term="Html5" scheme="http://www.cwyaml.top/tags/Html5/"/>
+    
+      <category term="canvas" scheme="http://www.cwyaml.top/tags/canvas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简单博文加密</title>
+    <link href="http://www.cwyaml.top/2017/02/07/encrypt/"/>
+    <id>http://www.cwyaml.top/2017/02/07/encrypt/</id>
+    <published>2017-02-07T02:16:31.000Z</published>
+    <updated>2017-03-21T11:01:35.348Z</updated>
+    
+    <summary type="html">
+    
+      本文访问密码：123456
+    
+    </summary>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="Next+Hexo" scheme="http://www.cwyaml.top/tags/Next-Hexo/"/>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="encrypt" scheme="http://www.cwyaml.top/tags/encrypt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO+GitHub搭建博客 - 优化</title>
+    <link href="http://www.cwyaml.top/2017/01/25/hexo2/"/>
+    <id>http://www.cwyaml.top/2017/01/25/hexo2/</id>
+    <published>2017-01-25T13:37:01.000Z</published>
+    <updated>2017-03-21T12:49:20.095Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://p1.bqimg.com/583079/fc5b98d5c59a4660.jpg&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;本篇文章主要介绍基于NexT主题的一些第三方功能的实现。&lt;br&gt;基本功能的设置可以参考&lt;a href=&quot;http://on5pjsxrv.bkt.clouddn.com/hexo1.jpg&quot;&gt;Next官网文档&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="Next+Hexo" scheme="http://www.cwyaml.top/tags/Next-Hexo/"/>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你还不知道 gtihub 吗？</title>
+    <link href="http://www.cwyaml.top/2017/01/08/update%20to%20github/"/>
+    <id>http://www.cwyaml.top/2017/01/08/update to github/</id>
+    <published>2017-01-08T12:23:58.000Z</published>
+    <updated>2017-03-21T12:40:55.539Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/github&amp;amp;git.jpg&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;GitHub的本意是旨在成为一种开放的软件协作平台，但它目前已成为一个巨大的综合性的平台，其作用远远超过单纯地开源代码。它已经被新一代的人们授权进行&lt;strong&gt;协作、创造和生产&lt;/strong&gt;。GitHub不仅仅是一个工具：我们正在见证一个新文化的诞生。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="git" scheme="http://www.cwyaml.top/categories/git/"/>
+    
+    
+      <category term="GitHub" scheme="http://www.cwyaml.top/tags/GitHub/"/>
+    
+      <category term="git" scheme="http://www.cwyaml.top/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO+GitHub,搭建博客 - 配置</title>
+    <link href="http://www.cwyaml.top/2016/12/24/hexo1/"/>
+    <id>http://www.cwyaml.top/2016/12/24/hexo1/</id>
+    <published>2016-12-24T14:23:58.000Z</published>
+    <updated>2017-03-21T12:45:09.591Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/hexo1.jpg&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;本篇文章主要介绍怎样利用 &lt;code&gt;Hexo + Next&lt;/code&gt; 在 &lt;code&gt;GitHub&lt;/code&gt; 上搭建个人博客。&lt;/p&gt;
+&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://hexo.io/zh-cn/&quot;&gt;Hexo&lt;/a&gt; 是一个快速、简洁且高效的静态站点生成框架，基于 &lt;a href=&quot;https://nodejs.org/en/&quot;&gt;Node.js&lt;/a&gt; 。 它有以下特点：&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="Next+Hexo" scheme="http://www.cwyaml.top/tags/Next-Hexo/"/>
+    
+      <category term="博客搭建" scheme="http://www.cwyaml.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+</feed>
