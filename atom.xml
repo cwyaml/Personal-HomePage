@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.cwyaml.top/"/>
-  <updated>2017-03-29T07:03:43.475Z</updated>
+  <updated>2017-03-30T02:09:59.637Z</updated>
   <id>http://www.cwyaml.top/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript - JSON学习笔记</title>
+    <link href="http://www.cwyaml.top/2017/03/29/json/"/>
+    <id>http://www.cwyaml.top/2017/03/29/json/</id>
+    <published>2017-03-29T14:31:56.000Z</published>
+    <updated>2017-03-30T02:09:59.637Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/js-json.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;前几天学习了 XML ，趁热打铁也把 JSON 做一下总结。首先 JSON 也是一种结构化数据，它的产生解决了 XML 过于繁琐的问题。它是 JS 的一个严格子集，利用 js 中的一些模式来表述数据化结构。不仅仅是 JS ，java、.NET 等其他语言也可以对 JSON 进行解析和序列化。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/tags/JavaScript/"/>
+    
+      <category term="JSON" scheme="http://www.cwyaml.top/tags/JSON/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript - XPath学习笔记</title>
