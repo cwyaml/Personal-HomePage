@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.cwyaml.top/"/>
-  <updated>2017-03-30T02:09:59.637Z</updated>
+  <updated>2017-03-30T13:11:08.880Z</updated>
   <id>http://www.cwyaml.top/</id>
   
   <author>
@@ -16,15 +16,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>搭建PHP环境</title>
+    <link href="http://www.cwyaml.top/2017/03/30/php/"/>
+    <id>http://www.cwyaml.top/2017/03/30/php/</id>
+    <published>2017-03-30T06:35:34.000Z</published>
+    <updated>2017-03-30T13:11:08.880Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/php.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;学习 JS Ajax 之前，先来搭建一个本地服务器环境。&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;我们使用 WampServer，它集成了&lt;strong&gt;PHP + Apache + MySQL&lt;/strong&gt;，并且有 &lt;strong&gt;phpmyAdmin&lt;/strong&gt; 可视化数据库，这个对我这个新手前端来说还是很有必要的。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="服务器" scheme="http://www.cwyaml.top/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="服务器" scheme="http://www.cwyaml.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+      <category term="PHP环境" scheme="http://www.cwyaml.top/tags/PHP%E7%8E%AF%E5%A2%83/"/>
+    
+      <category term="WampServer" scheme="http://www.cwyaml.top/tags/WampServer/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JavaScript - JSON学习笔记</title>
     <link href="http://www.cwyaml.top/2017/03/29/json/"/>
     <id>http://www.cwyaml.top/2017/03/29/json/</id>
     <published>2017-03-29T14:31:56.000Z</published>
-    <updated>2017-03-30T02:09:59.637Z</updated>
+    <updated>2017-03-30T05:23:54.850Z</updated>
     
     <summary type="html">
     
-      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/js-json.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/json.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;前几天学习了 XML ，趁热打铁也把 JSON 做一下总结。首先 JSON 也是一种结构化数据，它的产生解决了 XML 过于繁琐的问题。它是 JS 的一个严格子集，利用 js 中的一些模式来表述数据化结构。不仅仅是 JS ，java、.NET 等其他语言也可以对 JSON 进行解析和序列化。&lt;/p&gt;
     
@@ -41,14 +67,14 @@
   
   <entry>
     <title>JavaScript - XPath学习笔记</title>
-    <link href="http://www.cwyaml.top/2017/03/28/xPath/"/>
-    <id>http://www.cwyaml.top/2017/03/28/xPath/</id>
-    <published>2017-03-28T13:29:31.000Z</published>
-    <updated>2017-03-29T07:03:43.475Z</updated>
+    <link href="http://www.cwyaml.top/2017/03/12/xPath/"/>
+    <id>http://www.cwyaml.top/2017/03/12/xPath/</id>
+    <published>2017-03-12T13:29:31.000Z</published>
+    <updated>2017-03-30T13:12:49.374Z</updated>
     
     <summary type="html">
     
-      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/jsxpath.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/xpath.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;XPath 是一种节点查找手段。它比使用 标准DOM 去查找 XML 节点更加方便、更加简单。但是 XPath 是 DOM3 中才支持的标准，并且 IE 有自己的实现方式。（IE总是自己造马车）&lt;/p&gt;
     
@@ -60,30 +86,6 @@
       <category term="JavaScript" scheme="http://www.cwyaml.top/tags/JavaScript/"/>
     
       <category term="XPath" scheme="http://www.cwyaml.top/tags/XPath/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript-XML学习笔记</title>
-    <link href="http://www.cwyaml.top/2017/03/27/xml/"/>
-    <id>http://www.cwyaml.top/2017/03/27/xml/</id>
-    <published>2017-03-27T06:48:13.000Z</published>
-    <updated>2017-03-29T07:04:44.362Z</updated>
-    
-    <summary type="html">
-    
-      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/js-xml.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;XML 是指可扩展标记语言。 被设计用来 &lt;strong&gt;传输&lt;/strong&gt; 和 &lt;strong&gt;存储数据&lt;/strong&gt;。（可以理解为微型的数据库）很重要也非常好学。&lt;br&gt;曾几何时，XML一度成为存储和传输结构化数据的标准。DOM 出现以后，所有浏览器都内置了对 XML 的原生支持（XML DOM），同时也提供了一系列相关的技术支持。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="JavaScript" scheme="http://www.cwyaml.top/categories/JavaScript/"/>
-    
-    
-      <category term="JavaScript" scheme="http://www.cwyaml.top/tags/JavaScript/"/>
-    
-      <category term="XML" scheme="http://www.cwyaml.top/tags/XML/"/>
     
   </entry>
   
@@ -110,6 +112,30 @@
       <category term="博客搭建" scheme="http://www.cwyaml.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
       <category term="域名" scheme="http://www.cwyaml.top/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript-XML学习笔记</title>
+    <link href="http://www.cwyaml.top/2017/03/08/xml/"/>
+    <id>http://www.cwyaml.top/2017/03/08/xml/</id>
+    <published>2017-03-08T06:48:13.000Z</published>
+    <updated>2017-03-30T13:12:36.879Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/Xml.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;XML 是指可扩展标记语言。 被设计用来 &lt;strong&gt;传输&lt;/strong&gt; 和 &lt;strong&gt;存储数据&lt;/strong&gt;。（可以理解为微型的数据库）很重要也非常好学。&lt;br&gt;曾几何时，XML一度成为存储和传输结构化数据的标准。DOM 出现以后，所有浏览器都内置了对 XML 的原生支持（XML DOM），同时也提供了一系列相关的技术支持。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/tags/JavaScript/"/>
+    
+      <category term="XML" scheme="http://www.cwyaml.top/tags/XML/"/>
     
   </entry>
   
