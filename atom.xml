@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.cwyaml.top/"/>
-  <updated>2017-03-30T13:11:08.880Z</updated>
+  <updated>2017-04-02T10:44:47.511Z</updated>
   <id>http://www.cwyaml.top/</id>
   
   <author>
@@ -16,11 +16,59 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>GitHub 文本编辑器 Atom</title>
+    <link href="http://www.cwyaml.top/2017/04/02/atom/"/>
+    <id>http://www.cwyaml.top/2017/04/02/atom/</id>
+    <published>2017-04-02T02:25:45.000Z</published>
+    <updated>2017-04-02T10:44:47.511Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/atom.jpg&quot; alt=&quot;markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;在代码编辑器、文本编辑器领域，有着不少的「神器」级的产品，如历史悠久的 VIM、Emacs 以及如今当红的 SublimeText。另外还有 VS Code、EditPlus、NotePad++、UltraEdit 等一大堆流行的利器，可谓百家争鸣。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="编辑器" scheme="http://www.cwyaml.top/categories/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+    
+      <category term="编辑器" scheme="http://www.cwyaml.top/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+      <category term="Atom" scheme="http://www.cwyaml.top/tags/Atom/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript - Ajax学习笔记</title>
+    <link href="http://www.cwyaml.top/2017/03/30/Ajax/"/>
+    <id>http://www.cwyaml.top/2017/03/30/Ajax/</id>
+    <published>2017-03-30T14:53:52.000Z</published>
+    <updated>2017-04-02T10:40:49.214Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/ajax.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2005年 Jesse James Garrett 发表了一篇文章，介绍了 Ajax 这门技术。这种技术能够向服务器请求额外的数据而无需刷新页面，带来了很好的用户体验，一时间席卷全球。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/tags/JavaScript/"/>
+    
+      <category term="Ajax" scheme="http://www.cwyaml.top/tags/Ajax/"/>
+    
+  </entry>
+  
+  <entry>
     <title>搭建PHP环境</title>
     <link href="http://www.cwyaml.top/2017/03/30/php/"/>
     <id>http://www.cwyaml.top/2017/03/30/php/</id>
     <published>2017-03-30T06:35:34.000Z</published>
-    <updated>2017-03-30T13:11:08.880Z</updated>
+    <updated>2017-03-31T02:59:34.942Z</updated>
     
     <summary type="html">
     
