@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.cwyaml.top/"/>
-  <updated>2017-04-02T10:44:47.511Z</updated>
+  <updated>2017-04-03T14:08:32.464Z</updated>
   <id>http://www.cwyaml.top/</id>
   
   <author>
@@ -16,11 +16,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>JavaScript - 事件</title>
+    <link href="http://www.cwyaml.top/2017/04/02/event/"/>
+    <id>http://www.cwyaml.top/2017/04/02/event/</id>
+    <published>2017-04-02T13:14:46.000Z</published>
+    <updated>2017-04-03T14:08:32.464Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/event.png&quot; alt=&quot;markdown&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Javascript 和 HTML 之间的交互是通过 &lt;strong&gt;事件&lt;/strong&gt; 来实现的。最早在 IE 中出现，被作为分担服务器端运算负载的一种手段。到现在，几乎所有的浏览器都支持事件处理。在 DOM2 级中得到规范。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/tags/JavaScript/"/>
+    
+      <category term="事件" scheme="http://www.cwyaml.top/tags/%E4%BA%8B%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>GitHub 文本编辑器 Atom</title>
     <link href="http://www.cwyaml.top/2017/04/02/atom/"/>
     <id>http://www.cwyaml.top/2017/04/02/atom/</id>
     <published>2017-04-02T02:25:45.000Z</published>
-    <updated>2017-04-02T10:44:47.511Z</updated>
+    <updated>2017-04-03T14:19:45.184Z</updated>
     
     <summary type="html">
     
@@ -44,13 +68,13 @@
     <link href="http://www.cwyaml.top/2017/03/30/Ajax/"/>
     <id>http://www.cwyaml.top/2017/03/30/Ajax/</id>
     <published>2017-03-30T14:53:52.000Z</published>
-    <updated>2017-04-02T11:11:50.747Z</updated>
+    <updated>2017-04-03T14:41:16.342Z</updated>
     
     <summary type="html">
     
       &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/ajax.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2005年 Jesse James Garrett 发表了一篇文章，介绍了 Ajax 这门技术。这种技术能够向服务器请求额外的数据而无需刷新页面，带来了很好的用户体验，一时间席卷全球。&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2005年 &lt;strong&gt;Jesse James Garrett&lt;/strong&gt; 发表了一篇文章，介绍了 &lt;strong&gt;Ajax&lt;/strong&gt; 这门技术。这种技术能够向服务器请求额外的数据而无需刷新页面，带来了很好的用户体验，一时间席卷全球。&lt;/p&gt;
     
     </summary>
     
@@ -68,7 +92,7 @@
     <link href="http://www.cwyaml.top/2017/03/30/php/"/>
     <id>http://www.cwyaml.top/2017/03/30/php/</id>
     <published>2017-03-30T06:35:34.000Z</published>
-    <updated>2017-03-31T02:59:34.942Z</updated>
+    <updated>2017-04-03T14:53:06.430Z</updated>
     
     <summary type="html">
     
@@ -94,7 +118,7 @@
     <link href="http://www.cwyaml.top/2017/03/29/json/"/>
     <id>http://www.cwyaml.top/2017/03/29/json/</id>
     <published>2017-03-29T14:31:56.000Z</published>
-    <updated>2017-03-30T05:23:54.850Z</updated>
+    <updated>2017-04-03T14:58:42.465Z</updated>
     
     <summary type="html">
     
