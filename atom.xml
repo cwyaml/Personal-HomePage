@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.cwyaml.top/"/>
-  <updated>2017-04-04T07:39:47.749Z</updated>
+  <updated>2017-04-06T13:59:48.033Z</updated>
   <id>http://www.cwyaml.top/</id>
   
   <author>
@@ -14,6 +14,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【转】技术的边界 - ruanyf</title>
+    <link href="http://www.cwyaml.top/2017/04/06/%E8%BD%AC1/"/>
+    <id>http://www.cwyaml.top/2017/04/06/转1/</id>
+    <published>2017-04-06T08:04:36.000Z</published>
+    <updated>2017-04-06T13:59:48.033Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;去年，网上流传一则趣闻：美国圣昆廷州立监狱安排囚犯学习编程，完成学习的犯人出狱后，没有一个人重新犯罪被抓回监狱。一位刚刚出狱的囚犯说：”太可怕了，我宁愿在外面饿死也不想再进去学编程了。”后面那句话是网友杜撰的，但是程序员圈子里，大家依然把它当作笑话转发。”你看，编程多痛苦，还不如坐牢呢。” 我一直忘不了这个段子，觉得它是一个很好的象征：&lt;strong&gt;当代社会就像一座机器组成的监狱，学会技术可以摆脱牢房。&lt;/strong&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="技术遐想" scheme="http://www.cwyaml.top/categories/%E6%8A%80%E6%9C%AF%E9%81%90%E6%83%B3/"/>
+    
+    
+      <category term="转载" scheme="http://www.cwyaml.top/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+      <category term="技术遐想" scheme="http://www.cwyaml.top/tags/%E6%8A%80%E6%9C%AF%E9%81%90%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript - 面向对象</title>
+    <link href="http://www.cwyaml.top/2017/04/05/Object/"/>
+    <id>http://www.cwyaml.top/2017/04/05/Object/</id>
+    <published>2017-04-05T05:00:04.000Z</published>
+    <updated>2017-04-06T13:57:00.347Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/object.png&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;面向对象的语言有一个标志，那就是“类”的概念，所谓的“类”就是对象的模板，对象就是“类”的实例。但是，JavaScript语言的对象体系，不是基于“类”的，而是基于 &lt;strong&gt;构造函数&lt;/strong&gt;（constructor）和 &lt;strong&gt;原型链&lt;/strong&gt;（prototype）。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="http://www.cwyaml.top/tags/JavaScript/"/>
+    
+      <category term="面向对象" scheme="http://www.cwyaml.top/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript - 事件</title>
@@ -44,7 +88,7 @@
     <link href="http://www.cwyaml.top/2017/04/02/atom/"/>
     <id>http://www.cwyaml.top/2017/04/02/atom/</id>
     <published>2017-04-02T02:25:45.000Z</published>
-    <updated>2017-04-04T14:46:05.191Z</updated>
+    <updated>2017-04-06T09:09:50.345Z</updated>
     
     <summary type="html">
     
@@ -335,13 +379,13 @@
     <link href="http://www.cwyaml.top/2017/02/14/markdown/"/>
     <id>http://www.cwyaml.top/2017/02/14/markdown/</id>
     <published>2017-02-14T13:05:06.000Z</published>
-    <updated>2017-03-21T10:54:43.255Z</updated>
+    <updated>2017-04-06T09:08:45.598Z</updated>
     
     <summary type="html">
     
       &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/markdown.jpg&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;就像 Markdown 官方文档里描述的一样：&lt;strong&gt;&lt;em&gt;可读性，无论如何，都是最重要的。&lt;/em&gt;&lt;/strong&gt;Markdown 的目标是实现 &amp;nbsp; &lt;span id=&quot;yu-1&quot;&gt;『易读易写』&lt;/span&gt; 。&amp;nbsp;Markdown 从发布到现在备受好评，经过这一段的使用，整体感觉挺顺手，不过还是存在很多问题，所以总结一下喽。。&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;就像 Markdown 官方文档里描述的一样：&lt;strong&gt;&lt;em&gt;可读性，无论如何，都是最重要的。&lt;/em&gt;&lt;/strong&gt; Markdown 的目标是实现 &amp;nbsp; &lt;span id=&quot;yu-1&quot;&gt;『易读易写』&lt;/span&gt; 。&amp;nbsp;Markdown 从发布到现在备受好评，经过这一段的使用，整体感觉挺顺手，不过还是存在很多问题，所以总结一下喽。。&lt;/p&gt;
     
     </summary>
     
@@ -445,31 +489,6 @@
       <category term="GitHub" scheme="http://www.cwyaml.top/tags/GitHub/"/>
     
       <category term="git" scheme="http://www.cwyaml.top/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HEXO+GitHub,搭建博客 - 配置</title>
-    <link href="http://www.cwyaml.top/2016/12/24/hexo1/"/>
-    <id>http://www.cwyaml.top/2016/12/24/hexo1/</id>
-    <published>2016-12-24T14:23:58.000Z</published>
-    <updated>2017-03-21T12:45:09.591Z</updated>
-    
-    <summary type="html">
-    
-      &lt;div class=&quot;out-img-topic&quot;&gt;&lt;img src=&quot;http://on5pjsxrv.bkt.clouddn.com/hexo1.jpg&quot; alt=&quot;Markdown&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;本篇文章主要介绍怎样利用 &lt;code&gt;Hexo + Next&lt;/code&gt; 在 &lt;code&gt;GitHub&lt;/code&gt; 上搭建个人博客。&lt;/p&gt;
-&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://hexo.io/zh-cn/&quot;&gt;Hexo&lt;/a&gt; 是一个快速、简洁且高效的静态站点生成框架，基于 &lt;a href=&quot;https://nodejs.org/en/&quot;&gt;Node.js&lt;/a&gt; 。 它有以下特点：&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="博客搭建" scheme="http://www.cwyaml.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
-    
-      <category term="Next+Hexo" scheme="http://www.cwyaml.top/tags/Next-Hexo/"/>
-    
-      <category term="博客搭建" scheme="http://www.cwyaml.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
